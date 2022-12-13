@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "timestamp": "7/7 - 17:9:55",
+    "nombre": "Samsung S22+",
+    "descripcion": "Samsung S22+ 256GB 8RAM",
+    "codigo": 2,
+    "thumbail": "https://d500.epimg.net/cincodias/imagenes/2022/02/09/smartphones/1644422190_105239_1644433302_sumario_normal.jpg",
+    "precio": 234500,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "timestamp": "7/7 - 15:30:47",
+    "nombre": "Iphone 14",
+    "descripcion": "Iphone 14 128GB 6RAM",
+    "codigo": "3",
+    "thumbail": "https://cbafederal.net/wp-content/uploads/2022/09/Apple-iPhone-14-iPhone-14-Plus-2up-blue-220907-geo_inline.jpg.large_.jpg",
+    "precio": "547500",
+    "stock": "5"
+  }
+]
